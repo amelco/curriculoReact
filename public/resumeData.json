@@ -1,0 +1,233 @@
+{
+  "main": {
+    "name": "Andre",
+    "occupation": "Desenvolvimento Web",
+    "description": "Obrigado pela visita! Explore meu site para saber mais sobre mim, minhas experiências e o que eu tenho a oferecer. Se você tem dúvidas ou gostaria de discutir sobre uma oportunidade de trabalharmos juntos, fique à vontade para entrar em contato.",
+    "image": "profilepic.jpg",
+    "bio": "Tenho Pós-Graduação em Bussines Intelligence, PhD em Engenharia de Sistemas Agrícolas pela Universidade de São Paulo (USP) e, atualmente, sou graduando em Engenharia de Software pela Universidade Federal do Rio Grande do Norte (UFRN). Assíduo, pontual, comprometido e auto-didata, com pensamento analítco.",
+    "contactmessage": "Deseja entrar em contato? Mande uma mensagem abaixo e ficarei feliz em respondê-la.",
+    "email": "amelco.herman@gmail.com",
+    "phone": "+55 84 98121-3112",
+    "address": {
+      "street": "Rua São Paulo, 180",
+      "city": "Natal",
+      "state": "RN",
+      "zip": "59080-310"
+    },
+    "website": "",
+    "resumedownload": "curriculo.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/andre-bezerra-1054088a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/amelco",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Algumas tecnologias que eu utilizo e meu nível de habilidade relativo ao que eu gostaria de dominar da ferramenta.",
+    "education": [
+      {
+        "school": "Universidade Federal do Rio Grande do Norte",
+        "degree": "Engenharia de Software",
+        "graduated": "Cursando",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Universidade Federal do Rio Grande do Norte",
+        "degree": "Pós-Graduação Lato Sensu em Business Intelligence",
+        "graduated": "Julho 2021",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Universidade de São Paulo",
+        "degree": "Pós-Doutorado em Física do Solo",
+        "graduated": "Março 2017",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Universidade de São Paulo",
+        "degree": "Doutor em Engenharia de Biossistemas",
+        "graduated": "Janeiro 2016",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Universidade Federal Rural do Semi-Árido",
+        "degree": "Mestre em Irrigação e Drenagem",
+        "graduated": "Julho 2011",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "Universidade Federal Rural do Semi-Árido",
+        "degree": "Bacharelado em Agronomia",
+        "graduated": "Dezembro 2009",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "Laboratório de Inovação Tecnológica em Saúde",
+        "title": "Full Stack Developer / Pesquisador",
+        "years": "Fevereiro 2020 - Presente",
+        "description": "Desenvolvimento de um teclado virtual alternativo para pacientes com dificuldade de locomoção. Feito em React (front) e Flask (back). Características importantes: predição de palavras, text-to-speech."
+      },
+      {
+        "company": "Projeto Smart Metropolis (Instituto Metrópole Digital)",
+        "title": "Full Stack Developer",
+        "years": "Julho 2019 - Janeiro 2020",
+        "description": "Fiz parte do desenvolvimento de solução para monitoramento de uso de energia elétrica (dashboard) da Universidade Federal do Rio Grando do Norte. Feito em Java (Spring, jsf) utilizando Mongo."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "Spring",
+        "level": "40%"
+      },
+      {
+        "name": "Flask",
+        "level": "40%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "40%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "60%"
+      },
+      {
+        "name": "Docker",
+        "level": "30%"
+      },
+      {
+        "name": "Linux",
+        "level": "70%"
+      },
+      {
+        "name": "Fortran",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "title": "trabalhos",
+    "projects": [
+      {
+        "title": "Aplicação de Monitoramento de Energia",
+        "category": "Projeto Smart Metropolis",
+        "image": "monitoramento-energia.png",
+        "url": "https://smartmetropolis.imd.ufrn.br/?page_id=13"
+      },
+      {
+        "title": "Teclado Virtual Alternativo",
+        "category": "Projeto Autonomus",
+        "image": "teclado-virtual.png",
+        "url": "https://revela.lais.ufrn.br/autonomus/"
+      }
+    ]
+  },
+  "sideProjects": {
+    "title": "'side projects'",
+    "message": "Em meu tempo livre, gosto de implementar jogos simples. Atualmente estou estudando assembly para consoles de 8 bits (MOS 6502/6510)",
+    "projects": [
+      {
+        "title": "Space Shooter",
+        "category": "Jogo feito em PICO-8 (lua)",
+        "image": "space.gif",
+        "url": "https://github.com/amelco/pico8_cartridges"
+      },
+      {
+        "title": "Simple RPG",
+        "category": "RPG simples feito em Godot",
+        "image": "rpg.gif",
+        "url": "#"
+      },
+      {
+        "title": "Platformer",
+        "category": "Jogo simples de plataforma feito em Godot",
+        "image": "plataforma.gif",
+        "url": "#"
+      },
+      {
+        "title": "CPaint",
+        "category": "Editor gráfico em linha de comando feito em C",
+        "image": "cpaint.gif",
+        "url": "#"
+      }
+    ]
+  },
+  "academico": {
+    "title": "trabalhos acadêmicos",
+    "projects": [
+      {
+        "title": "Mechanistic numerical modeling of solute uptake by plant roots",
+        "category": "Tese de doutorado (Fortran)",
+        "image": "uptake.png",
+        "url": "#"
+      },
+      {
+        "title": "Tillage effects on soil physical condition and root growth",
+        "category": "Resultado do pós-doutorado",
+        "image": "tillage.png",
+        "url": "#"
+      },
+      {
+        "title": "Cálculo do coeficiente de cultura",
+        "category": "Trabalho de graduação (C#)",
+        "image": "kc.png",
+        "url": "#"
+      },
+      {
+        "title": "Soil and Water Evapotranspiration Software",
+        "category": "Dissertação de Mestrado (C#)",
+        "image": "swet.png",
+        "url": "#"
+      },
+      {
+        "title": "Cálculo de evaporação do Tanque Classe A",
+        "category": "Trabalho de graduação (C#)",
+        "image": "kpclasseA.png",
+        "url": "#"
+      },
+      {
+        "title": "Estimativa da Evapotranspiração",
+        "category": "Resultado da monografia (C#)",
+        "image": "seeva.png",
+        "url": "#"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
