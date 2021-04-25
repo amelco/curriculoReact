@@ -39,7 +39,7 @@
         "description": "Atualmente no 4° semestre do curso."
       },
       {
-        "school": "Universidade Federal do Rio Grande do Norte",
+        "school": "Universidade Federal do Rio Grande do Norte ",
         "degree": "Pós-Graduação Lato Sensu em Business Intelligence",
         "graduated": "Julho 2021",
         "description": "Desenvolvi um teclado virtual alternativo para pacientes com dificuldades de locomoção. Feito em Flask e React."
@@ -51,7 +51,7 @@
         "description": "Desenvolvi uma metodologia para estimar parâmetros físicos do solo através de uma série temporal de dados, medidos em campo, de umidade do solo. Feito em Fortran e Python."
       },
       {
-        "school": "Universidade de São Paulo",
+        "school": "Universidade de São Paulo ",
         "degree": "Doutor em Engenharia de Biossistemas",
         "graduated": "Janeiro 2016",
         "description": "Desenvolvi um modelo físico-matemático para simular extração de água e solutos pelas raízes de plantas, bem como estimar seu estresse hídrico e osmótico. Feito em Fortran."
@@ -63,7 +63,7 @@
         "description": "Desenvolvi um modelo matemático para simular o movimento de água no solo com extração pela raízes de plantas. Feito em C#."
       },
       {
-        "school": "Universidade Federal Rural do Semi-Árido",
+        "school": "Universidade Federal Rural do Semi-Árido ",
         "degree": "Bacharelado em Agronomia",
         "graduated": "Dezembro 2009",
         "description": "Desenvolvi um programa de estimativa da evapotranspiração das culturas, bem como vários outros programas relativos a agro-climatologia. Feito em C#."
