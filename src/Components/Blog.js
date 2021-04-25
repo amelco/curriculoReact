@@ -8,12 +8,20 @@ const Blog = (props) => {
       return (
         <div key={posts.title} className="blog-item">
           <div className="blog-title-container">
-            <div className="blog-title">{posts.title}</div><div className="blog-createDate">{` - criado em ${posts.creationDate}`}</div>
+            <div className="blog-title-child">
+              <div className="blog-title">{posts.title}</div>
+            </div>
+            <div className="blog-title-child">
+              <div className="blog-creationDate">{`Criado em ${posts.creationDate}`}</div>
+            </div>
           </div>
           <div className="blog-content">{posts.content}</div>
-          {posts.images.map(imgs => {
-            return <img alt={imgs} src={`images/${imgs}`} />
-          })}
+          <div className="blog-images-container">
+            {posts.images.map(imgs => {
+              return <div className="blog-image"><img alt={imgs} src={`images/${imgs}`} /></div>
+            })}
+          </div>
+          <hr />
         </div>
       )
     })
@@ -23,7 +31,7 @@ const Blog = (props) => {
     <div>
       <h1>Blog</h1>
       <h3>Blog items</h3>
-      <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
+      <div>
         {items}
       </div>
     </div>
