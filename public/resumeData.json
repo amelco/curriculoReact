@@ -4,7 +4,7 @@
     "occupation": "Desenvolvimento Web",
     "description": "Obrigado pela visita! Explore meu site para saber mais sobre mim, minhas experiências e o que eu tenho a oferecer. Se você tem dúvidas ou gostaria de discutir sobre uma oportunidade de trabalharmos juntos, fique à vontade para entrar em contato.",
     "image": "profilepic.jpg",
-    "bio": "Tenho Pós-Graduação em Bussines Intelligence, PhD em Engenharia de Sistemas Agrícolas pela Universidade de São Paulo (USP) e, atualmente, sou graduando em Engenharia de Software pela Universidade Federal do Rio Grande do Norte (UFRN). Assíduo, pontual, comprometido e auto-didata, com pensamento analítco.",
+    "bio": "Tenho Pós-Graduação em Bussines Intelligence, PhD em Engenharia de Sistemas Agrícolas pela Universidade de São Paulo (USP) e, atualmente, sou graduando em Tecnologia da Informação pela Universidade Federal do Rio Grande do Norte (UFRN). Assíduo, pontual, comprometido e auto-didata, com pensamento analítco.",
     "contactmessage": "Deseja entrar em contato? Mande uma mensagem abaixo e ficarei feliz em respondê-la.",
     "email": "amelco.herman@gmail.com",
     "phone": "+55 84 98121-3112",
@@ -14,8 +14,8 @@
       "state": "RN",
       "zip": "59080-310"
     },
-    "website": "",
-    "resumedownload": "curriculo.pdf",
+    "website": "https://amelco.github.io/curriculoReact/",
+    "resumedownload": "docs/curriculo.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -34,39 +34,39 @@
     "education": [
       {
         "school": "Universidade Federal do Rio Grande do Norte",
-        "degree": "Engenharia de Software",
-        "graduated": "Cursando",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "degree": "Bacharelado em Tecnologia da Informação",
+        "graduated": "Janeiro 2019 - Presente",
+        "description": "Atualmente no 4° semestre do curso."
       },
       {
         "school": "Universidade Federal do Rio Grande do Norte",
         "degree": "Pós-Graduação Lato Sensu em Business Intelligence",
         "graduated": "Julho 2021",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": "Desenvolvi um teclado virtual alternativo para pacientes com dificuldades de locomoção. Feito em Flask e React."
       },
       {
         "school": "Universidade de São Paulo",
         "degree": "Pós-Doutorado em Física do Solo",
         "graduated": "Março 2017",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": "Desenvolvi uma metodologia para estimar parâmetros físicos do solo através de uma série temporal de dados, medidos em campo, de umidade do solo. Feito em Fortran e Python."
       },
       {
         "school": "Universidade de São Paulo",
         "degree": "Doutor em Engenharia de Biossistemas",
         "graduated": "Janeiro 2016",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": "Desenvolvi um modelo físico-matemático para simular extração de água e solutos pelas raízes de plantas, bem como estimar seu estresse hídrico e osmótico. Feito em Fortran."
       },
       {
         "school": "Universidade Federal Rural do Semi-Árido",
         "degree": "Mestre em Irrigação e Drenagem",
         "graduated": "Julho 2011",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": "Desenvolvi um modelo matemático para simular o movimento de água no solo com extração pela raízes de plantas. Feito em C#."
       },
       {
         "school": "Universidade Federal Rural do Semi-Árido",
         "degree": "Bacharelado em Agronomia",
         "graduated": "Dezembro 2009",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": "Desenvolvi um programa de estimativa da evapotranspiração das culturas, bem como vários outros programas relativos a agro-climatologia. Feito em C#."
       }
     ],
     "work": [
@@ -81,6 +81,12 @@
         "title": "Full Stack Developer",
         "years": "Julho 2019 - Janeiro 2020",
         "description": "Fiz parte do desenvolvimento de solução para monitoramento de uso de energia elétrica (dashboard) da Universidade Federal do Rio Grando do Norte. Feito em Java (Spring, jsf) utilizando Mongo."
+      },
+      {
+        "company": "Wageningen University & Research (WUR) - Holanda",
+        "title": "Pesquisador visitante",
+        "years": "Janeiro 2013 - Janeiro 2014",
+        "description": "Pesquisa sobre movimento de água no solo, stress hídrico e osmótico de plantas, e estudo sobre modelos físico-matemáticos de extração de água e solutos pelas raízes de plantas."
       }
     ],
     "skills": [
@@ -91,6 +97,10 @@
       {
         "name": "Java",
         "level": "60%"
+      },
+      {
+        "name": "C#",
+        "level": "40%"
       },
       {
         "name": "Spring",
